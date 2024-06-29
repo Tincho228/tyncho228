@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm <Martin Quintero>, a student at Brigham Young University-Idaho interested in <Software Development/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm <Martin Quintero>, a student at Brigham Young University-Idaho interested in Software Development such as: computer science, data science, web development, machine learning. Welcome to my GitHub profile!
 
 ## About Me
 
