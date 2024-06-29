@@ -6,9 +6,17 @@ I'm <Martin Quintero>, a student at Brigham Young University-Idaho interested in
 
 ## About Me
 
-- I'm currently learning new languages like C# and python
-- My goals are: graduate in 2025
-- Ask me about ...
+-I am majoring in Software Development and my goal is to graduate in 2025
+-I currently have three certificates, Backend, Frontend and Web & Computer Programming that allow me to develope and maintain web applications,
+-I am passionate about designing, using creativity. My best reward is to whitness user experience abobut my projects. 
+-My goal is to develope all my posible skills during my life through hard work and diligence. Working with groups in developing and debugging web applications
+-I have knowledge in: 
+-       • Develop applications in native HTML, CSS, Javascript and PHP.
+-       • Python.
+-       • Css frameworks  to develop responsive and mobile-first applications.
+-       • JS framworks like Angular, Jquery.
+-       • PHP frameworks like Laravel, jetstream, livewire, admin lte
+-       • SQL language for Data Base management -  mysql, firebase and mongodb.
 
 ## Technologies and Tools
 
