@@ -11,12 +11,12 @@ I'm <Martin Quintero>, a student at Brigham Young University-Idaho interested in
 -I am passionate about designing, using creativity. My best reward is to whitness user experience abobut my projects. 
 -My goal is to develope all my posible skills during my life through hard work and diligence. Working with groups in developing and debugging web applications
 -I have knowledge in: 
--       • Develop applications in native HTML, CSS, Javascript and PHP.
--       • Python.
--       • Css frameworks  to develop responsive and mobile-first applications.
--       • JS framworks like Angular, Jquery.
--       • PHP frameworks like Laravel, jetstream, livewire, admin lte
--       • SQL language for Data Base management -  mysql, firebase and mongodb.
+-        Develop applications in native HTML, CSS, Javascript and PHP.
+-        Python.
+-        Css frameworks  to develop responsive and mobile-first applications.
+-        JS framworks like Angular, Jquery.
+-        PHP frameworks like Laravel, jetstream, livewire, admin lte
+-        SQL language for Data Base management -  mysql, firebase and mongodb.
 
 ## Technologies and Tools
 
