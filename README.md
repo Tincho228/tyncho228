@@ -32,8 +32,8 @@ I'm <Martin Quintero>, a student at Brigham Young University-Idaho interested in
 - Proficient in MVC architecture for developing scalable and maintainable web applications, emphasizing separation of concerns and efficient development practices.
 
 ## Projects I am working on
-- Peace and Conlict course (7 weeks)
-- Profesional Readiness course (7 weeks)
+- Peace and Conlict course (7 weeks) This class introduces core theories and practices related to conflict and peace. It explores key principles, tensions, and dynamics that are fundamental to conflict and teaches students how to engage conflict in collaborative problem-solving ways. This class is designed to enhance capacity for creative conflict transformation in multiple contexts, including families and workplaces as well as local, national, and global communities.
+- Profesional Readiness course (7 weeks) This course will help prepare students to be professionals in their major by completing activities that will provide professional connections, confidence, and employability.
 - Personal portfolio. Currently on design.
   
 ## Let's Connect!
