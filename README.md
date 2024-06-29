@@ -25,7 +25,6 @@ I'm <Martin Quintero>, a student at Brigham Young University-Idaho interested in
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https//:www.linkedin.com/in/martinquinterobyu) profile
-- [Linkedin](www.facebook.com)
+- Here is my [LinkedIn](https://www.linkedin.com/in/martinquinterobyu)) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
