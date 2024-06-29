@@ -31,6 +31,11 @@ I'm <Martin Quintero>, a student at Brigham Young University-Idaho interested in
 - Soft Skills: Communication skills, teamwork, and the ability to work collaboratively in a development team, including effective written and verbal communication.
 - Proficient in MVC architecture for developing scalable and maintainable web applications, emphasizing separation of concerns and efficient development practices.
 
+## Projects I am working on
+- Peace and Conlict course (7 weeks)
+- Profesional Readiness course (7 weeks)
+- Personal portfolio. Currently on design.
+  
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/martin-quintero-byu) profile
